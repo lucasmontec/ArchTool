@@ -19,6 +19,8 @@ that calls another.
  Currently only supports C# but adding other languages
 should be easy. I plan to add at least java, python and
 maybe lua.
+
+[Download](https://github.com/lucasmontec/ArchTool/releases/)
  
 ##How to load a project
 
