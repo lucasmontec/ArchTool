@@ -1,0 +1,18 @@
+apply plugin: "java"
+
+repositories{
+	flatDir { dirs "lib" }
+	mavenCentral()
+	jcenter()
+}
+
+dependencies{
+}
+
+sourceSets{
+	main {
+		java {
+			srcDir "src"
+		}
+	}
+}

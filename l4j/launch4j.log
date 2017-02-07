@@ -1,0 +1,27 @@
+
+
+Version:	3.9
+CmdLine:	C:\Users\Zumbi\Desktop\ArchTool.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Zumbi\Desktop\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8.0_111
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_65
+Ignore:		1.8.0_065
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.8.0_051
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_65
+Ignore:		1.8.0_065
+Runtime used:	1.8.0_111 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Zumbi\Desktop\ArchTool.exe"
+Args length:	42/32768 chars
+Exit code:	0
